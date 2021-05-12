@@ -1,3 +1,3 @@
 # pricegrid
 
-live host link:
+live host link:https://donpozzy.github.io/pricegrid/
